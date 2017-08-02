@@ -15,7 +15,7 @@ var (
 	buildTarget = flag.String("t", "", "Build target [build|artifacts|publish]")
 
 	showVersion = flag.Bool("version", false, "Show version")
-	variable    = flag.String("var", "", "Show value of vairable specified in the configuration file")
+	variable    = flag.String("var", "", "Show value of variable specified in the configuration file")
 
 	initMoldCfg    = flag.Bool("init", false, "Initialize a new mold file.")
 	showAppVersion = flag.Bool("app-version", false, "Show the app version per mold")

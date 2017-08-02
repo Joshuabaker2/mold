@@ -14,7 +14,7 @@ version computation and appropriately tagging images.
 
 ## Usage
 To use mold you can simply issue the `mold` command in the root of your git
-repository.  By default the command looks for a `.mold.yml` [configuration](#Configuration) file at
+repository.  By default the command looks for a `.mold.yml` [configuration](docs/Configuration) file at
 the root of your project.  All available options can be seen by issuing:
 ```
 mold --help

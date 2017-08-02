@@ -1,7 +1,7 @@
 # Configuration
 By default mold looks for a .mold.yml configuration file at the root of your project.
 This contains all the necessary information to perform your build.  A sample with comments
-can be found in [testdata/mold1.yml](testdata/mold1.yml).
+can be found in [testdata/mold1.yml](../testdata/mold1.yml).
 
 The build configuration is broken up into the following sections:
 

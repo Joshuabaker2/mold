@@ -179,7 +179,7 @@ Options:
 
   -init         Initialize a new %s for the project if one does not exist.
 
-  -var          Show value of vairable specified in the configuration file  (default: NA)
+  -var          Show value of variable specified in the configuration file  (default: NA)
 
   -uri          Docker URI          (default: %s)
 
